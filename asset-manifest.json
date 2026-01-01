@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eventhub/static/css/main.e8cb7bee.css",
+    "main.js": "/eventhub/static/js/main.c36e2e70.js",
+    "index.html": "/eventhub/index.html",
+    "main.e8cb7bee.css.map": "/eventhub/static/css/main.e8cb7bee.css.map",
+    "main.c36e2e70.js.map": "/eventhub/static/js/main.c36e2e70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8cb7bee.css",
+    "static/js/main.c36e2e70.js"
+  ]
+}
